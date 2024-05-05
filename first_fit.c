@@ -67,5 +67,3 @@ void main(){
     print(m);
 
 }
-
-//blk[i].allc,(proces[blk[i -1].allc]),(blk[i].size - proces[blk[i -1].allc])
